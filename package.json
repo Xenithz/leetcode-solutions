@@ -1,0 +1,22 @@
+{
+  "name": "leetcode-solutions",
+  "version": "1.0.0",
+  "description": "leetcode solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xenithz/leetcode-solutions.git"
+  },
+  "author": "Angelo Guerrero",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Xenithz/leetcode-solutions/issues"
+  },
+  "homepage": "https://github.com/Xenithz/leetcode-solutions#readme",
+  "devDependencies": {
+    "execution-time": "^1.4.1"
+  }
+}
